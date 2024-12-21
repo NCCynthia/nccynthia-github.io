@@ -1,1 +1,1 @@
-# nccynthia-github.io
+# nccynthia.github.io
